@@ -1,0 +1,12 @@
+Para a execução do código utilize Python 2.7.12
+comando:
+python main.py Testes/"nome_arquivo.tsp.txt"
+
+Bibliotecas utilizadas
+sys
+numpy
+math
+random
+copy
+time
+matplotlib
